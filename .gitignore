@@ -10,22 +10,9 @@ venv/
 .venv/
 env/
 
-# Environment variables / secrets
+# Secrets
 .env
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# IDE settings
-.vscode/
-.idea/
-
-# ML generated model files
-*.pkl
-*.pickle
-*.joblib
-
-# Temporary files
-*.tmp
-*.log
