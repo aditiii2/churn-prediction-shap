@@ -1,0 +1,31 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# ML generated model files
+*.pkl
+*.pickle
+*.joblib
+
+# Temporary files
+*.tmp
+*.log
